@@ -1,2 +1,2 @@
-# BDIC-Completition-Code
-BDIC 评论情感分类比赛代码
+
+### 关于 __init__.py
